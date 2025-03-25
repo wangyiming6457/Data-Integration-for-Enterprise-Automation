@@ -10,10 +10,10 @@ Our solution demonstrates a **secure, API-led, event-driven automation** that in
 
 ## 👨‍💻 Team Members
 
-- **Wang Yiming (Leader)** – E2510862  
-- Li Jian – Q2472519  
-- Teng Han Leng – CE250886  
-- Leow Yu Fan – B1681528  
+- **Wang Yiming (Leader)**   
+- Li Jian   
+- Teng Han Leng 
+- Leow Yu Fan  
 
 ---
 
